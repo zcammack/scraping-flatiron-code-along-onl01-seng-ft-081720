@@ -21,7 +21,8 @@ binding.pry
 
   def get_courses
 
-end
+  end
+
   def make_courses
 
   end
